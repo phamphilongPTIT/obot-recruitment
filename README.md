@@ -9,6 +9,12 @@ Welcome to the OBot Project! OBot is a cutting-edge initiative aimed at revoluti
 
 By leveraging advanced machine learning and deep learning technologies, OBot seeks to create intelligent agents that can assist, augment, and automate a wide range of tasks, bringing unprecedented efficiency and effectiveness to businesses and individuals alike. Our project is at the forefront of AI research, combining the expertise of top engineers, data scientists, and thought leaders to push the boundaries of what AI can achieve.
 
+
+
+https://github.com/phamphilongPTIT/obot-recruitment/assets/53576485/0575b205-d98c-49d3-bcc1-466bfbf854a6
+
+
+
 ## Open Position: Machine Learning Engineer
 
 ### Job Overview
