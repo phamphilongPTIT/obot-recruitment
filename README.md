@@ -1,7 +1,7 @@
 # OBOT Recruitment
 
 Welcome to the OBOT recruitment repository! We are excited to invite talented Machine Learning Engineers to join our groundbreaking project.
-https://github.com/phamphilongPTIT/obot-recruitment/blob/main/obot.jpg
+![obot](https://github.com/phamphilongPTIT/obot-recruitment/assets/53576485/a6fe2bf5-7796-4bbf-81bd-3de7f8d52390)
 
 ## About OBOT
 Welcome to the OBot Project! OBot is a cutting-edge initiative aimed at revolutionizing the way we interact with artificial intelligence. Our mission is to develop a super AI that can act as an AI CEO, capable of making complex decisions, managing resources, and driving innovation across various industries. 
