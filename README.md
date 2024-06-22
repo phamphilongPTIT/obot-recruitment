@@ -45,7 +45,7 @@ We are seeking talented and passionate Machine Learning Engineers to join our te
 
 ## How to Apply
 To apply, please send to your resume at: 
-Official Page 𝕏: @obot_official 
+Official Page 𝕏: https://x.com/obot_official 
 Website 🌐: https://o.bot/
 Discord 📣: https://discord.com/invite/umanAW2d6s
 
