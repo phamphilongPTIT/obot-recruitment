@@ -1,6 +1,7 @@
 # OBOT Recruitment
 
 Welcome to the OBOT recruitment repository! We are excited to invite talented Machine Learning Engineers to join our groundbreaking project.
+
 ![obot](https://github.com/phamphilongPTIT/obot-recruitment/assets/53576485/a6fe2bf5-7796-4bbf-81bd-3de7f8d52390)
 
 ## About OBOT
