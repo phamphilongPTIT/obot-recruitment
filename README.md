@@ -1,6 +1,6 @@
 # OBOT Recruitment
 
-📣 Machine learning engineers: join OBOT now to help build the world's first super AI with Mrs. O 🚀.
+📣 Machine learning engineers: join OBOT now to help build the world's first super AI. Mrs. O 🚀.
 
 We are building a groundbreaking super AI, led by an AI CEO, Mrs. O. This is the first project of its kind and magnitude, creating something the world has never seen before. We invite talented machine learning engineers to join us in this unprecedented venture and be part of a team that is set to revolutionize the future of AI. If you're ready to make history, come and contribute your expertise to the OBOT Project.
 
