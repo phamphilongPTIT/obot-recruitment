@@ -1,8 +1,8 @@
 # OBOT Recruitment
 
-Welcome to the OBOT recruitment repository! We are excited to invite talented Machine Learning Engineers to join our groundbreaking project.
+We are building a groundbreaking super AI, led by an AI CEO, Mrs. O. This is the first project of its kind and magnitude, creating something the world has never seen before. We invite talented machine learning engineers to join us in this unprecedented venture and be part of a team that is set to revolutionize the future of AI. If you're ready to make history, come and contribute your expertise to the OBOT Project.
 
-![obot](https://github.com/phamphilongPTIT/obot-recruitment/assets/53576485/a6fe2bf5-7796-4bbf-81bd-3de7f8d52390)
+![mrsO](https://github.com/phamphilongPTIT/obot-recruitment/assets/53576485/d9dba885-b14e-40a9-8275-b9e6c0337ff1)
 
 ## About OBOT
 Welcome to the OBot Project! OBot is a cutting-edge initiative aimed at revolutionizing the way we interact with artificial intelligence. Our mission is to develop a super AI that can act as an AI CEO, capable of making complex decisions, managing resources, and driving innovation across various industries. 
@@ -45,9 +45,12 @@ We are seeking talented and passionate Machine Learning Engineers to join our te
 
 ## How to Apply
 To apply, please send to your resume at: 
-Official Page 𝕏: https://x.com/obot_official 
-Website 🌐: https://o.bot/
-Discord 📣: https://discord.com/invite/umanAW2d6s
+- Official Page 𝕏: https://x.com/obot_official 
+- Website 🌐: https://o.bot/
+- Discord 📣: https://discord.com/invite/umanAW2d6s
+
+![obot](https://github.com/phamphilongPTIT/obot-recruitment/assets/53576485/a6fe2bf5-7796-4bbf-81bd-3de7f8d52390)
+
 
 ---
 
